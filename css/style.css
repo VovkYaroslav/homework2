@@ -1,0 +1,91 @@
+body{
+    background: greenyellow;
+
+    display: flow;
+
+    justify-content: center;
+
+    align-items: center;
+
+
+}
+.box{
+    background: silver;
+    color: red;
+    text-align: center;
+
+    min-height: 100px;
+    width: 640px;
+
+    display: flow;
+
+    justify-content: center;
+
+    align-items: center;
+    position: center;
+
+}
+.titlebox{ text-align: center;
+
+}
+.mbox2{
+    <!--background: blue;-->
+    color: red;
+    text-align: justify;
+
+
+    height: 300px;
+    width: 600px;
+
+    position: center;
+    margin: 20px;
+
+}
+.eat{
+    background:blue;
+    color: red;
+    text-align: center;
+
+  justify-content: space-between;
+
+
+
+    height: 200px;
+    width: 300px;
+  margin: 10px;
+
+}
+.mbox{
+    background: blue;
+    color: red;
+    text-align: justify;
+
+
+    height: 200px;
+    width: 600px;
+
+
+    margin: 20px;
+
+
+
+
+}
+.www{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    text-align: center;
+}
+.mbox1{
+    background: blue;
+    color: red;
+    text-align: justify;
+
+    margin: 20px;
+
+    height: 300px;
+    width: 600px;
+}
